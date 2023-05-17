@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: whitesmoke;
   color: black;
 }
 
@@ -13,7 +13,8 @@ iframe {
 }
 header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   font-size: 1.2rem;
+  flex-direction: column;
 }
+
