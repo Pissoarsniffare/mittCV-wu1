@@ -18,3 +18,21 @@ header {
   flex-direction: column;
 }
 
+header > h3 {
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 1.2rem;
+}
+
+main > h2 {
+  align-content: center;
+  align-items: center;
+  display: flex;
+  gap: 1.2rem;
+}
+
+main > h2 > img {
+  max-width: 24px;
+}
