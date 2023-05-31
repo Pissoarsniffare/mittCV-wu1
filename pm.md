@@ -19,7 +19,9 @@ Format: ![Alt Text](url)
 
 ## Positiva erfarenheter
 
-- Har lärt mig mera css vilket kommer nog vara användbart i framtida projekt
+- Har lärt mig mera css vilket kommer nog vara användbart i framtida projekt som i webbutveckling 2
+- Om jag kommer jobba med hemsidor och sånt i framtiden så kommer jag i allafall ha fått med nåt från detta projekt. 
+- Jag överlevde.
 
 ## Negativa erfarenheter
 
